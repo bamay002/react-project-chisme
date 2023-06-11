@@ -5,12 +5,11 @@ import NavBar from './Components/NavBar';
 import UploadPosts from './Components/UploadPosts';
 
 function App() {
+  document.title = 'CHISME'
   return (
-    <div className="App">
+
+    <div>
       <NavBar />
-      <SideBar />
-      <UploadPosts />
-      <OldPosts />
     </div>
   );
 }

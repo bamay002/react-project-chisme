@@ -1,3 +1,13 @@
-.App {
-  text-align: center;
+.searchinput{
+    border: 2px solid rgb(228, 225, 225);
+    border-radius: 4px;
+    margin: 10px;
+    height: 38px;
+    transform: translate(0px , 2px);
 }
+
+.navbar-brand{
+    font-family: Moirai One;
+    font-size: 30px;
+}
+
